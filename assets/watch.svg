@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450" role="img" aria-label="Đồng hồ thông minh">
+<defs><linearGradient id="strap" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1f2937"/><stop offset=".5" stop-color="#576c78"/><stop offset="1" stop-color="#171f29"/></linearGradient><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102c40"/><stop offset=".5" stop-color="#005d81"/><stop offset="1" stop-color="#00a5d8"/></linearGradient></defs>
+<ellipse cx="223" cy="422" rx="113" ry="15" opacity=".12"/>
+<path d="M161 20q61-21 126 0l-13 117H174zm13 303h100l13 107q-63 20-126 0z" fill="url(#strap)"/>
+<path d="M180 25q44-13 89 0l-12 99h-65z" fill="#aabac3" opacity=".16"/>
+<rect x="120" y="112" width="210" height="222" rx="57" fill="#0f1921" stroke="#94aab4" stroke-width="10"/>
+<rect x="133" y="127" width="184" height="191" rx="43" fill="url(#screen)"/>
+<rect x="325" y="184" width="17" height="43" rx="7" fill="#637b87"/>
+<circle cx="225" cy="222" r="64" stroke="#b3e9f7" stroke-width="7" stroke-dasharray="160 240" fill="none" transform="rotate(-70 225 222)"/>
+<circle cx="225" cy="222" r="48" stroke="#49d9f4" stroke-width="6" stroke-dasharray="140 168" fill="none" transform="rotate(65 225 222)"/>
+<text x="225" y="218" font-size="34" font-weight="700" font-family="Arial,sans-serif" fill="#fff" text-anchor="middle">10:08</text>
+<text x="225" y="249" font-size="10" font-weight="bold" letter-spacing="3" font-family="Arial,sans-serif" fill="#dcf9ff" text-anchor="middle">TUESDAY</text>
+<circle cx="161" cy="166" r="4" fill="#e0f9ff" opacity=".8"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="520" viewBox="0 0 540 520" role="img" aria-label="Tai nghe không dây">
+<defs>
+<linearGradient id="band" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536679"/><stop offset=".44" stop-color="#1c2634"/><stop offset="1" stop-color="#101c2b"/></linearGradient>
+<linearGradient id="shell" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5d6df"/><stop offset=".35" stop-color="#7d95a4"/><stop offset="1" stop-color="#2b4154"/></linearGradient>
+<linearGradient id="pad" x1="0" x2="1"><stop stop-color="#161f2e"/><stop offset=".55" stop-color="#334151"/><stop offset="1" stop-color="#101820"/></linearGradient>
+</defs>
+<ellipse cx="268" cy="464" rx="180" ry="27" fill="#0b2435" opacity=".13"/>
+<path d="M136 293V210c0-94 56-159 135-159 78 0 136 65 136 159v83" stroke="url(#band)" stroke-width="66" fill="none" stroke-linecap="round"/>
+<path d="M137 208c0-87 55-149 135-149s134 62 134 149" stroke="#d0dfe6" stroke-opacity=".67" stroke-width="14" fill="none" stroke-linecap="round"/>
+<path d="M111 224l-8 67m332-67 8 67" stroke="#192a37" stroke-width="19" stroke-linecap="round"/>
+<g transform="rotate(-8 144 340)"><rect x="90" y="245" width="112" height="181" rx="47" fill="url(#shell)" stroke="#243b4c" stroke-width="6"/><rect x="108" y="266" width="80" height="139" rx="36" fill="url(#pad)" stroke="#101923" stroke-width="8"/><path d="M103 295v80" stroke="#f1fafc" stroke-opacity=".48" stroke-width="5" stroke-linecap="round"/></g>
+<g transform="rotate(8 392 335)"><rect x="337" y="241" width="112" height="181" rx="47" fill="url(#shell)" stroke="#243b4c" stroke-width="6"/><rect x="352" y="263" width="82" height="139" rx="36" fill="url(#pad)" stroke="#101923" stroke-width="8"/><path d="M439 292v78" stroke="#fafcfd" stroke-opacity=".5" stroke-width="5" stroke-linecap="round"/></g>
+<path d="M170 103c51-62 146-61 201 0" stroke="#ffffff" stroke-opacity=".14" stroke-width="10" fill="none" stroke-linecap="round"/>
+<circle cx="393" cy="363" r="5" fill="#00ADEE"/><circle cx="392" cy="363" r="11" fill="none" stroke="#e3f7fc" stroke-opacity=".5" stroke-width="2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450" role="img" aria-label="Máy ảnh compact">
+<defs><linearGradient id="cameraBody" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9db4c2"/><stop offset=".42" stop-color="#415765"/><stop offset="1" stop-color="#1d2c37"/></linearGradient><radialGradient id="lens"><stop stop-color="#006990"/><stop offset=".28" stop-color="#143d50"/><stop offset=".5" stop-color="#0a1d2b"/><stop offset=".7" stop-color="#2c4858"/><stop offset="1" stop-color="#0c151e"/></radialGradient></defs>
+<ellipse cx="224" cy="368" rx="153" ry="18" opacity=".12"/>
+<path d="M102 136h48l22-33h90l21 33h51q29 0 29 30v153q0 26-29 26H102q-27 0-27-26V166q0-30 27-30z" fill="url(#cameraBody)" stroke="#1d2934" stroke-width="8"/>
+<path d="M92 176h254v-9q0-16-19-16H111q-19 0-19 16z" fill="#d8eaf1" opacity=".28"/>
+<rect x="119" y="112" width="72" height="23" rx="9" fill="#1c2833"/>
+<rect x="270" y="112" width="55" height="17" rx="5" fill="#273c4c"/>
+<circle cx="230" cy="237" r="101" fill="#182833" stroke="#acbfcc" stroke-width="11"/>
+<circle cx="230" cy="237" r="82" fill="url(#lens)" stroke="#243847" stroke-width="13"/>
+<circle cx="230" cy="237" r="54" fill="#0b1c2c" stroke="#00ADEE" stroke-width="6"/>
+<circle cx="230" cy="237" r="35" fill="#0f384d"/><circle cx="215" cy="224" r="13" fill="#b4e7fa" opacity=".53"/>
+<rect x="101" y="178" width="37" height="22" rx="5" fill="#dcecf4" opacity=".7"/>
+<circle cx="330" cy="172" r="7" fill="#00ADEE"/>
+</svg>

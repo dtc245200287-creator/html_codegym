@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450" role="img" aria-label="Loa Bluetooth">
+<defs><linearGradient id="case" x1="0" y1="0" x2="1" y2=".5"><stop stop-color="#7d9cac"/><stop offset=".18" stop-color="#243845"/><stop offset=".65" stop-color="#0f202b"/><stop offset="1" stop-color="#4a6977"/></linearGradient><pattern id="mesh" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.15" fill="#b2c6d0" opacity=".34"/><circle cx="8" cy="8" r="1.15" fill="#b2c6d0" opacity=".34"/></pattern></defs>
+<ellipse cx="224" cy="401" rx="141" ry="18" opacity=".15"/>
+<rect x="99" y="64" width="253" height="320" rx="88" fill="url(#case)" stroke="#1c2932" stroke-width="4"/>
+<rect x="115" y="83" width="220" height="283" rx="72" fill="url(#mesh)"/>
+<rect x="132" y="61" width="186" height="29" rx="14" fill="#202e38"/>
+<g fill="none" stroke="#d1e4ec" stroke-width="5" stroke-linecap="round"><path d="M175 75h18m-9-9v18"/><path d="M259 75h18"/></g>
+<circle cx="225" cy="221" r="75" fill="#182a36" stroke="#648e9f" stroke-width="8"/>
+<circle cx="225" cy="221" r="51" fill="#1f3543" stroke="#00ADEE" stroke-width="13"/>
+<circle cx="225" cy="221" r="25" fill="#344e5c" stroke="#7acfe9" stroke-width="5"/>
+<path d="M174 316q52 18 102 0" stroke="#a8d9e8" stroke-opacity=".5" stroke-width="5" stroke-linecap="round" fill="none"/>
+</svg>
